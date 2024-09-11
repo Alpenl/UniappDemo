@@ -53,6 +53,9 @@ importers:
       '@dcloudio/uni-quickapp-webview':
         specifier: 3.0.0-4020420240722002
         version: 3.0.0-4020420240722002(postcss@8.4.45)(rollup@4.21.2)(vue@3.5.3)
+      '@unocss-applet/preset-rem-rpx':
+        specifier: ^0.8.2
+        version: 0.8.2(unocss@0.62.3(postcss@8.4.45)(rollup@4.21.2)(vite@5.2.8(@types/node@22.5.4)(terser@5.31.6)))
       vue:
         specifier: ^3.4.21
         version: 3.5.3
